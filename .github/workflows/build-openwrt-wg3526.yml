@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt wg3526-32m
+name: Build OpenWrt wg3526-32mv1
 
 on:
   repository_dispatch:
